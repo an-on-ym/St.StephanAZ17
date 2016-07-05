@@ -1,5 +1,5 @@
 # St.StephanAZ16-17
-Ein Projekt für das deutsche Gymnasium bei St.Stephan in Augsburg, welches die Erstellung und Organisation der Abizeitung 2015-17 vereinfachen soll.
+Ein Projekt für das Gymnasium bei St.Stephan in Augsburg, welches die Erstellung und Organisation der Abizeitung 2015-17 vereinfachen soll.
 
 Wie man mitmachen kann:
   1. Erstelle einen [Github Account](https://github.com/join)
